@@ -1,1 +1,29 @@
-We don't collect any of your data. All of your data is stored in your device.
+Privacy Policy
+
+Use of Third-Party SDKs
+
+Our app uses third-party SDKs to enhance its functionality and provide better services to our users. These SDKs help us improve app performance, provide analytics, and ensure the smooth operation of our services.
+
+Android SDK
+
+Our app utilizes the Android SDK provided by Google. This SDK is essential for the core functionalities of our app, enabling us to provide you with a seamless and efficient user experience.
+
+Data Handling
+
+The Android SDK may collect certain information automatically, such as:
+
+Device Information: Device model, operating system version, unique device identifiers, and mobile network information.
+Usage Data: Information about how you use our app.
+Diagnostic Information: Crash reports, performance data, and other diagnostic information.
+This data is used to:
+
+Improve the app's performance.
+Diagnose and fix issues.
+Provide a better user experience.
+Third-Party Privacy Policies
+
+For more detailed information on how Google handles your data, please review Google's privacy policy: Google Privacy Policy.
+
+Your Consent
+
+By using our app, you consent to the use of these third-party SDKs and the data handling practices described in this privacy policy.
